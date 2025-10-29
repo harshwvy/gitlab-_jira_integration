@@ -1,0 +1,9 @@
+gitlab:
+  base: "https://gitlab.com"
+  project: "group/project"
+  token: ""
+
+jira:
+  base: "https://yourcompany.atlassian.net"
+  user: ""
+  token: ""
